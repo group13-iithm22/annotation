@@ -47,7 +47,7 @@ song2-9,We've been through this auch a long long time,anger,disgust,nosadness,no
 song2-10,Just tryin' to kill the pain,sadness,disgust,sadness,nosadness
 song2-11,But lovers always come and lovers always go,sadness,trust,sadness,nosadness
 song2-12,An no one's really sure who's lettin' go today,fear,sadness,nosadness,sadness
-song2-13,Walking away,null,fear,nosadness,nosadness
+song2-13,Walking away,NULL,fear,nosadness,nosadness
 song2-14,If we could take the time,trust,anticipation,nosadness,nosadness
 song2-15,to lay it on the line,trust,sadness,nosadness,sadness
 song2-16,I could rest my head,trust,disgust,nosadness,nosadness
@@ -341,7 +341,7 @@ song7-50,Billie Jean Is Not My Lover,disgust,surprise,nosadness,nosadness
 song7-51,Billie Jean Is Not My Lover,disgust,surprise,nosadness,nosadness
 song7-52,Billie Jean Is Not My Lover,disgust,surprise,nosadness,nosadness
 song7-53,Billie Jean Is Not My Lover,disgust,surprise,nosadness,nosadness
-song8-1,Aah,null,NULL,nosadness,nosadness
+song8-1,Aah,NULL,NULL,nosadness,nosadness
 song8-2,Buddy you're a boy make a big noise,joy,disgust,nosadness,nosadness
 song8-3,Playin' in the street gonna be a big man some day,anticipation,disgust,nosadness,nosadness
 song8-4,You got mud on yo' face,disgust,disgust,nosadness,nosadness
@@ -398,10 +398,10 @@ song9-24,Where do we go,anticipation,anticipation,nosadness,nosadness
 song9-25,Where do we go now,anticipation,anticipation,nosadness,nosadness
 song9-26,Where do we go,anticipation,anticipation,nosadness,nosadness
 song9-27,Sweet child o' mine,joy,joy,nosadness,nosadness
-song10-1,YOU,null,NULL,nosadness,nosadness
-song10-2,YOU HAVE,null,NULL,nosadness,nosadness
-song10-3,YOU GOT ME,null,NULL,nosadness,nosadness
-song10-4,YOU ASKED ME,null,NULL,nosadness,nosadness
+song10-1,YOU,NULL,NULL,nosadness,nosadness
+song10-2,YOU HAVE,NULL,NULL,nosadness,nosadness
+song10-3,YOU GOT ME,NULL,NULL,nosadness,nosadness
+song10-4,YOU ASKED ME,NULL,NULL,nosadness,nosadness
 song10-5,YOU ASKED ME AND I DID NOT SAY ANYTHING,disgust,anticipation,nosadness,nosadness
 song10-6,WILL YOU UNTIL DEATH DO YOU PART,disgust,anticipation,nosadness,nosadness
 song10-7,BE FAITHFUL TO HER FOR ALL DAYS,disgust,anticipation,nosadness,nosadness
@@ -409,4 +409,3 @@ song10-8,NO,disgust,NULL,nosadness,nosadness
 song10-9,"DO YOU WANT, UNTIL DEATH SEPARATES YOU",disgust,anticipation,nosadness,nosadness
 song10-10,THEY LOVE EVEN IN BAD DAYS,disgust,joy,nosadness,nosadness
 song10-11,NO,disgust,NULL,nosadness,nosadness
-,,,,,
